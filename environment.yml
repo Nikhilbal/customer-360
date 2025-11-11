@@ -1,0 +1,17 @@
+name: customer360
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - seaborn
+  - plotly
+  - dash
+  - pip
+  - pip:
+      - streamlit

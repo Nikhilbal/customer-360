@@ -36,10 +36,8 @@ page = st.sidebar.radio(
         "Overview",
         "Customer Explorer",
         "Churn Analysis",
-        "Segmentation",
         "Product Insights",
         "Geography",
-        "Churn Prediction"
     ]
 )
 
